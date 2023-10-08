@@ -1,0 +1,19 @@
+{
+  "name": "api para calculo de frete",
+  "version": "1.0.0",
+  "description": "exercicio proposto pela escola de tecnologia Cubos Academy",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon .;src/index.js"
+  },
+  "keywords": [],
+  "author": "Luiz Moura",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "utils-playground": "^1.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
