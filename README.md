@@ -20,6 +20,15 @@ exceção foi adicionato a estrutra de tratamento de erros TRY/CATCH, possibilid
 ![Captura de tela 2023-10-08 231754](https://github.com/LuizMoura-88/Nodejs_API_Calculo_de_Frete/assets/122941117/f7a09685-23bc-4b05-9f27-733e2ac45b42)
 ![Captura de tela 2023-10-08 232023](https://github.com/LuizMoura-88/Nodejs_API_Calculo_de_Frete/assets/122941117/424a0547-48ed-4671-a455-7acc00224dfc)
 
+### 📱Experiencia do usuario.
+O cliente tem acesso a três aos seguintes EndPoints:
+ - Listar Produtos
+ - Detalhar Produto
+ - Calcular Frete de um Produto
+
+Caso cliente venha a efetuar uma requisição indevida retornara um resposta, conforme preve esta API Rest.
+
+Para iniciar o servidor apicar o comando:{npm run start}.
       
 ### 📝 Tecnologias utilizadas
 <div style="display: inline_block"><br>
