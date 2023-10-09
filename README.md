@@ -15,7 +15,10 @@ Foi utilizado o ambiente de desenvolvimento integrado VSCODE, implementado os pa
 - [utils-playground](https://www.npmjs.com/package/utils-playground) --> para buscar o cep a partir de um argumento passado.
 A aplicação esta estruturada em diretorios com nomes intuitivos com seus respectivos arquivos para receber, tratar e retornar respota, trabalhando com funçoes assincronas, para  tratar de
 exceção foi adicionato a estrutra de tratamento de erros TRY/CATCH, possibilidando que a API não trave.
-### um panomara estrutural dos diretorios e arquivos.
+### Um panorama dos diretorios e arquivos distribuidos:
+
+![Captura de tela 2023-10-08 231754](https://github.com/LuizMoura-88/Nodejs_API_Calculo_de_Frete/assets/122941117/f7a09685-23bc-4b05-9f27-733e2ac45b42)
+![Captura de tela 2023-10-08 232023](https://github.com/LuizMoura-88/Nodejs_API_Calculo_de_Frete/assets/122941117/424a0547-48ed-4671-a455-7acc00224dfc)
 
       
 ### 📝 Tecnologias utilizadas
