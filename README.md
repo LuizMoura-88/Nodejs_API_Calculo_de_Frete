@@ -17,7 +17,7 @@ cliente:
 - A solução proposta por esta API é trazer dinamismo e praticidade ao consultar produtos numa plataforma ecommerce.💡
 ##
  ## Modelo Conceitual
-- imagens aqui.... abaixo como colocar imagem ao lado da outra
+
 
    <div>
         <table>
@@ -27,7 +27,7 @@ cliente:
             </tr>
         </table>
     </div>
-##
+
 
 ### Breve Video sobre a execução da API simulação da experiencia do usuário:
 
