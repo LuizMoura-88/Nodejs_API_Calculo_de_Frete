@@ -1,4 +1,4 @@
-# 🖥️ Aplicação Nodejs Consumindo API ara Calculo de Frete. 
+# 🖥️ Aplicação Nodejs Consumindo API para Calculo de Frete. 
 
 ## ⚙️ Sobre o Projeto
 Este projeto tem origem de um exercicio que foi proposta pela escola de tecnologia Cubos Academy.
